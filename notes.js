@@ -1,3 +1,33 @@
+MAJOR UPDATE SHIT 
+THE VAR WALA THING IS NOW OLD AND ALL SO WE HAVE TO USE LET OR CONST FROM NOW
+Var is not restricted i mean we can still use it but let and const are new and update now So yeah keep this small thing in mind.
+
+NOTES FOR JAVASCRIPT 
+#########################################
+29 october 2020
+
+New stuff -> 
+**********************************************
+const num = 30;
+
+
+HERE CONST MEANS CONSTANT 
+The number cant be changed further and is a CONSTANT type of Number or a variable you can say
+**********************************************
+
+let numerical = 10;
+
+Now i don't exactly know what this thing does but till now i think it works the same as var wala stuff
+
+Can say works similar to var 
+**********************************************
+
+
+
+
+
+
+
 // int char float etc 
 // VAR-> All kind of variables can be stored
 var age,days;
